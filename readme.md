@@ -5,8 +5,9 @@ date: "2024-02-12"
 output: html_document  
 ---
 ## Preview the blog page
-
-
+![homepage](https://github.com/Xiaozhen2022/Django_Blog/blob/master/statics/img/homepage.jpg)  
+![detail](https://github.com/Xiaozhen2022/Django_Blog/blob/master/statics/img/detail.jpg)  
+![admin](https://github.com/Xiaozhen2022/Django_Blog/blob/master/statics/img/admin.jpg)  
 ## Build development environment
 django-admin startproject blogProject
 ## Build project application
