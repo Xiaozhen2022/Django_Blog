@@ -1,7 +1,7 @@
 ---
-title: "test"  
+title: "Blog"  
 author: "Janet"  
-date: "2024-02-07"  
+date: "2024-02-12"  
 output: html_document  
 ---
 ## Preview the blog page
